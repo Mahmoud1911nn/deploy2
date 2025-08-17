@@ -1,0 +1,17 @@
+streamlit
+joblib
+scikit-learn
+pandas
+numpy
+tensorflow
+from tensorflow import keras
+tensorflow-addons   
+tensorflow-datasets
+tensorflow-hub          
+tensorflow-io
+tensorflow-metadata   
+tensorflow-text
+tensorflow-probability
+tensorflow-serving-api
+tensorflow-privacy  
+tensorflow-model-optimization
